@@ -1,0 +1,36 @@
+{
+    "author": "david.emy@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "countdown",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "CountDown",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/tree",
+                    "name": "CHRISTMAS_TREE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "45657bf7-1c1a-41f8-be46-2243deccd587",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
